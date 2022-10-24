@@ -1,4 +1,4 @@
-#NovaFori Developer Test - Todolist App
+# NovaFori Developer Test - Todolist App
 
 ![Todolist App Demo](https://github.com/hasan3d/NovaForiDeveloperTest/blob/master/TodoListAppDemo.gif)
 
