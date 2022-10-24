@@ -1,3 +1,7 @@
+#NovaFori Developer Test - Todolist App
+
+![Todolist App Demo](https://github.com/hasan3d/NovaForiDeveloperTest/blob/master/TodoListAppDemo.gif)
+
 ## How long did you spend on your solution?
 ### Answer: I spent three and a half hours approximately.
 ## How do you build and run your solution?
